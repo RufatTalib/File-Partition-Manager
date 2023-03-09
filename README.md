@@ -24,9 +24,8 @@ Dividing big sized file to smaller blocks, and re-mix
 <h4>
   Partition size stands for block size. Prefering high partition size is good for big files.
 </h4>
-
+<h3>Notes</h3>
 <h5>
-  Notes<br>
-  Code script supports OOP<br>
+  Code script supports OOP<br><br>
   Program supports multithreaded integration for graphical applications
 </h5>
