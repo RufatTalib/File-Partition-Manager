@@ -14,7 +14,7 @@ Dividing big sized file to smaller blocks, and re-mix
 <h3>Usage</h3>
 
 <p>Partition</p>
-<code>partition = Partition("exampledriver:\\examplepath\\examplefilename.examplefileformat", examplePartitionSize)</code><br>
+<code>partition = Partition("exampledrive:\\examplepath\\examplefilename.examplefileformat", examplePartitionSize)</code><br>
 <code>partition.Generate()</code><br>
 <br>
 <p>Building</p>
